@@ -8,6 +8,7 @@ so the plan is:
 - [ ] consume api from [a&amp;m bus api site](https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor)
 - [ ] store that in a clear, internal representation via meaningful rust structs
 - [ ] create an api server that uses [rocket](https://rocket.rs) and serve that on a minimal vps
+- [ ] implement a web-based administrative ui for the server
 
 building on / resources&blog posts:
 
