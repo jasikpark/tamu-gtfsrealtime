@@ -1,0 +1,7 @@
+[package]
+name = "tamu-gtfsrealtime"
+version = "0.1.0"
+authors = ["Caleb Jasik <calebjasik@jasik.xyz>"]
+edition = "2018"
+
+[dependencies]
