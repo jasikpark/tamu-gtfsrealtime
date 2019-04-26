@@ -6,7 +6,7 @@ A&amp;M Spirit Bus API: [https://transport.tamu.edu/BusRoutesFeed/swagger/ui/ind
 
 ## so my plan is
 
-- [ ] work through the [rocket](https://rocket.rs) tutorial and documenation
+- [ ] :construction: work through the [rocket](https://rocket.rs) tutorial and documenation
 - [ ] read through the [gtfs-realtime](https://github.com/google/transit/tree/master/gtfs-realtime/spec/en) spec in its entirety
 - [ ] learn how to write an application that polls the api once every ten seconds (with some added random variance)
 - [ ] learn how to work with databases so that there can be a single worker that polls the Spirit Bus api every ten seconds for updated info, that enters that information in a database for consumption
