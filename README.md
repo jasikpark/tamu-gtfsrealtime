@@ -21,7 +21,7 @@ A&amp;M Spirit Bus API: [https://transport.tamu.edu/BusRoutesFeed/swagger/ui/ind
 
 ## building on / resources&blog posts
 
--  [Open Source Transit Software](https://jasik.xyz/open-source-transit-software/) (this is my website)
+- [Open Source Transit Software](https://jasik.xyz/open-source-transit-software/) (this is my website)
 - [Legacy AVL system? It’s okay, join the club. | Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export/)
 - [GitHub - kurtraschke/wmata-gtfsrealtime: GTFS-realtime StopTimeUpdate, VehiclePosition, and Alert feeds for WMATA](https://github.com/kurtraschke/wmata-gtfsrealtime)
 - [GitHub - kurtraschke/septa-gtfsrealtime: GTFS-realtime for SEPTA TrainView and TransitView APIs.](https://github.com/kurtraschke/septa-gtfsrealtime)
