@@ -1,7 +1,8 @@
 # tamu-gtfsrealtime
+
 attempt to consume the a&amp;m bus api and provide a gtfsrealtime-compliant api
 
-a&amp;m bus api: https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor
+a&amp;m bus api: [https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor](https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor)
 
 so my plan is:
 
@@ -11,7 +12,7 @@ so my plan is:
 - [ ] learn how to work with databases so that there can be a single worker that polls the Spirit Bus api every ten seconds for updated info, that enters that information in a database for consumption
 - [ ] take what I have learned from the [rocket](https://rocket.rs) tutorial and create a gtfs-realtime server
 
-the program structure will be: 
+the program structure will be:
 
 - [ ] consume api from [a&amp;m bus api site](https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor)
 - [ ] store that in a clear, internal representation via meaningful rust structs
