@@ -12,6 +12,8 @@ A&amp;M Spirit Bus API: [https://transport.tamu.edu/BusRoutesFeed/swagger/ui/ind
 - [ ] read through the
   [gtfs-realtime](https://github.com/google/transit/tree/master/gtfs-realtime/spec/en)
   spec in its entirety
+- [ ] build a library that describes the gtfs-realtime spec to allow easy
+  gtfs-realtime stream creation from rust
 - [ ] learn how to write an application that polls the api once every ten
   seconds (with some added random variance)
 - [ ] learn how to work with databases so that there can be a single worker that
