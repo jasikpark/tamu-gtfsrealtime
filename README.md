@@ -1,5 +1,7 @@
 # tamu-gtfsrealtime
 
+You can find me in the [Rust Community Discord Server](http://bit.ly/rust-community) as @Caleb#3174
+
 > attempt to consume the A&amp;M bus api and provide a gtfs-realtime compliant api
 
 A&amp;M Spirit Bus API: [https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor](https://transport.tamu.edu/BusRoutesFeed/swagger/ui/index#!/Buses/Buses_GetBusesOnRoute_Mentor)
